@@ -1,3 +1,4 @@
+This is new
 ===========================================================================
 About this sample:
   In this sample, a message is logged to the webpage for each HTML5 video event that is emitted. You can toggle the visibility of notes that provide more information about each event.
